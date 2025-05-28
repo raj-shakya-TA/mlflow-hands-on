@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d1e3e6911ce7464aa63f8d8dec77b55d/artifacts
+end_time: 1748444088393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1e3e6911ce7464aa63f8d8dec77b55d
+run_name: Data Preparation
+run_uuid: d1e3e6911ce7464aa63f8d8dec77b55d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748444088135
+status: 3
+tags: []
+user_id: raj.shakya

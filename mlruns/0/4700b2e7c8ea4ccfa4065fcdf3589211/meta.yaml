@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4700b2e7c8ea4ccfa4065fcdf3589211/artifacts
+end_time: 1748444165169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4700b2e7c8ea4ccfa4065fcdf3589211
+run_name: Housing Pipeline
+run_uuid: 4700b2e7c8ea4ccfa4065fcdf3589211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748444164686
+status: 4
+tags: []
+user_id: raj.shakya

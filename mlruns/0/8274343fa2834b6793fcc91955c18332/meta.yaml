@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8274343fa2834b6793fcc91955c18332/artifacts
+end_time: 1748444288166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8274343fa2834b6793fcc91955c18332
+run_name: Model Training
+run_uuid: 8274343fa2834b6793fcc91955c18332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748444287914
+status: 3
+tags: []
+user_id: raj.shakya
